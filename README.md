@@ -23,8 +23,7 @@ Back-End dev focused on building scalable backend applications with clean archit
 - Working on personal projects
 
 ## 📈 Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alirezacisco&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alirezacisco&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alirezacisco)
 
 ## 📬 Contact
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white)](https://t.me/alirezacisco)
