@@ -13,6 +13,8 @@ Back-End dev focused on building scalable backend applications with clean archit
 ![TypeORM](https://img.shields.io/badge/TypeORM-E83524?logo=typeorm&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![HTML](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg)
+![CSS](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg)
 
 ### 🛠 Tools
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
@@ -24,9 +26,6 @@ Back-End dev focused on building scalable backend applications with clean archit
 - Trying to master backend development like my life depends on it
 - Learning architecture patterns & DevOps basics
 - Working on personal projects
-
-## 📈 Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alirezacisco)
 
 ## 📬 Contact
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white)](https://t.me/alirezacisco)
