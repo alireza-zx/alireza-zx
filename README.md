@@ -13,8 +13,8 @@ Back-End dev focused on building scalable backend applications with clean archit
 ![TypeORM](https://img.shields.io/badge/TypeORM-E83524?logo=typeorm&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
-![HTML](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg)
-![CSS](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### 🛠 Tools
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
