@@ -1,6 +1,6 @@
 # Hi, I'm Alireza 👋
 
-Back-End dev focused on building scalable backend applications with clean architecture.
+Back-End developer focused on building scalable, reliable and performant backend applications with clean architecture.
 
 ## 🚀 Tech Stack
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
