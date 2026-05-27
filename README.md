@@ -30,7 +30,8 @@ Back-End developer focused on building scalable, reliable and performant backend
 - Building scalable and modern backend applications
 - Trying to master backend development like my life depends on it
 - Learning architecture patterns & DevOps basics
-- Working on personal projects
+- Learning deep computer and networking fundamentals and architecture
+- Learning Web3 and Blockchain
 
 ## 📬 Contact
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white)](https://t.me/alirezacisco)
