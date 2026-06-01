@@ -34,5 +34,4 @@ Back-End developer focused on building scalable, reliable and performant backend
 - Learning Web3 and Blockchain
 
 ## 📬 Contact
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white)](https://t.me/alirezacisco)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kxalireza@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white)](https://t.me/ekkoji)
