@@ -35,4 +35,4 @@ Back-End developer focused on building scalable, reliable and performant backend
 
 ## 📬 Contact
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white)](https://t.me/ekkoji)
-[![Email](https://img.shields.io/badge/email-yourname%40gmail.com-blue?style=flat&logo=gmail)](mailto:alirezahakimi208@gmail.com)
+[![Email](https://img.shields.io/badge/email-alirezahakimi208%40gmail.com-blue?style=flat&logo=gmail)](mailto:alirezahakimi208@gmail.com)
