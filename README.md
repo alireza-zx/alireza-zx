@@ -1,4 +1,4 @@
-# Hi, I'm Alireza 👋
+# Hey, I'm Alireza 👋
 
 Back-End developer focused on building scalable, reliable and performant backend applications with clean architecture.
 
@@ -19,20 +19,21 @@ Back-End developer focused on building scalable, reliable and performant backend
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 
 ### 🛠 Tools
+![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white)
-![Nodemon](https://img.shields.io/badge/Nodemon-76D04B?logo=nodemon&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?logo=insomnia&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
 
 ## 🔥 What I’m Doing
-- Building scalable and modern backend applications
+- Building scalable, performant and modern backend applications
 - Trying to master backend development like my life depends on it
 - Learning architecture patterns & DevOps basics
-- Learning deep computer and networking fundamentals and architecture
+- Learning deep computer and networking fundamentals and architectures
 - Learning Web3 and Blockchain
 
-## 📬 Contact
+## 📬 Contact me
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white)](https://t.me/ekkoji)
 [![Email](https://img.shields.io/badge/email-alirezahakimi208%40gmail.com-blue?style=flat&logo=gmail)](mailto:alirezahakimi208@gmail.com)
