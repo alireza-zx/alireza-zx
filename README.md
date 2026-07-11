@@ -13,6 +13,7 @@ Back-End developer focused on building scalable, reliable and performant backend
 ![TypeORM](https://img.shields.io/badge/TypeORM-E83524?logo=typeorm&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-5A67D8?logo=prisma&logoColor=white)
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?logo=socket.io&logoColor=white)
 ![WebSocket](https://img.shields.io/badge/WebSocket-007ACC?logo=websocket&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
@@ -26,6 +27,8 @@ Back-End developer focused on building scalable, reliable and performant backend
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?logo=insomnia&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
+![Bun](https://img.shields.io/badge/Bun-F9F1E1?logo=bun&logoColor=000000)
+![Deno](https://img.shields.io/badge/Deno-ffffff?logo=deno&logoColor=000000)
 
 ## 🔥 What I’m Doing
 - Building scalable, performant and modern backend applications
