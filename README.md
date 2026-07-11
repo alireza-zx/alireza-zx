@@ -29,7 +29,6 @@ Back-End developer focused on building scalable, reliable and performant backend
 
 ## 🔥 What I’m Doing
 - Building scalable, performant and modern backend applications
-- Trying to master backend development like my life depends on it
 - Learning architecture patterns & DevOps basics
 - Learning deep computer and networking fundamentals and architectures
 - Learning Web3 and Blockchain
