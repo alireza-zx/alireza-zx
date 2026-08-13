@@ -10,7 +10,6 @@ a software engineer focused on building scalable, reliable and performant backen
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
-![Mongoose](https://img.shields.io/badge/Mongoose-880000?logo=mongoose&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?logo=socket.io&logoColor=white)
@@ -31,9 +30,10 @@ a software engineer focused on building scalable, reliable and performant backen
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 
 ## 🔥 What I’m Doing
+- Learning Java and Spring framework
 - Building scalable, performant and modern backend applications
 - Learning architecture patterns & DevOps basics
-- Learning deep computer and networking fundamentals and architectures
+- Learning deep computer science and networking.
 - Learning Web3 and Blockchain
 
 ## 📬 Contact me
